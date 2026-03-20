@@ -1,0 +1,11 @@
+/* 아랫 줄의 ul을 .text로 바꾸면 햄거버 란만 적용됨 */
+ul {
+  /* 번호(불릿) 스타일을 지정하는 속성 */
+  list-style-type: square;
+
+  /* 리스트의 들여쓰기 여부를 지정하는 속성 */
+  list-style-position: inside;
+
+  /* 불릿을 이미지로 설정하는 속성 */
+  list-style-image: url("./3.jpg"); 
+}

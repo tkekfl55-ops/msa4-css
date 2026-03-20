@@ -1,0 +1,17 @@
+.body {
+  font-size: 15;
+}
+  container {
+  border: 1px color black;
+  width: 450px;        
+}
+.ul {
+  line-height: 2rem;
+  list-style: none;
+}  
+.span_red {
+  color:red;
+  font-weight: 900;
+  font-size: 1.2rem;
+}
+ 
