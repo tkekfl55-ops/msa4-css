@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+div {
+  border: 1px solid black;
+}
+
+.container{
+  width: 400px;
+  height: 400px;
+  margin: auto;
+  position: relative;
+}
+
+.position {
+  width: 120px;
+  height: 120px;
+  position: absolute;
+}
+
+.position-top-50 {
+  top: 50px;
+}
+
+.position-top-200{
+  top: 200px;
+}
+
+.position-top-50{
+  left: 50px;
+}
+
+.position-200-50{
+  left: 200px;
+}
+
+.ab1 {
+  top: 50px;
+  left: 50px;
+}
+.ab2 {
+  top: 250px;
+  left: 250px;
+}
+.ab3{
+  top: 100px;
+  left: 200px;
+}  
+  
